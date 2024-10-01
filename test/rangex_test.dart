@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:range/range.dart';
+import 'package:rangex/rangex.dart';
 import 'package:test/test.dart';
 
 Future<List<int>> runPythonRange(int a, [int? b, int? c]) async {

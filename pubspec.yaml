@@ -1,6 +1,7 @@
-name: range
+name: rangex
 description: A Dart utility package inspired by Python's range.
-version: 1.0.0
+version: 2.0.0
+repository: https://github.com/fa0311/range_dart
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

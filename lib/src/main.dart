@@ -1,6 +1,7 @@
 import 'dart:collection';
 
 Range range(int a, [int? b, int? c]) => Range(a, b, c);
+Range rangex(int a, [int? b, int? c]) => Range(a, b, c);
 
 class Range extends IterableBase<int> {
   final int start;
