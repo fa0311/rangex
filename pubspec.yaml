@@ -1,0 +1,10 @@
+name: range
+description: A Dart utility package inspired by Python's range.
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
