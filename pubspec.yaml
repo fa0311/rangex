@@ -1,6 +1,6 @@
 name: rangex
 description: A Dart utility package that truly mirrors Python's range — for precise and intuitive iteration.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/fa0311/range_dart
 
 environment:
