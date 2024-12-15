@@ -1,6 +1,6 @@
 # rangex
 
-A Dart utility package inspired by Python's range.
+A Dart utility package that truly mirrors Python's range — for precise and intuitive iteration.
 
 ## Usage
 
